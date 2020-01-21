@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+
+.users{
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  background-color: #282c34;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 500px;
+  margin-left: 420px;
+  color: white;
+}
+
+.name {
+  margin-top: 60px;
+}
+
+.follow{
+  margin-top: 60px;
+}
+
+body{
+  background-color: teal;
+}
+
+.postsbody{
+  width: 500px;
+  background-color: floralwhite;
+  border-radius: 15px;
+  margin-left: 420px;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.title{
+  border-bottom: 1px solid black;
+  text-align: center;
+  padding-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.posts{
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.body{
+  text-align: left;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-weight: 500;
+}
+
+.userslist{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.list{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
